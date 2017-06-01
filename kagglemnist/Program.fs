@@ -1,6 +1,5 @@
 ﻿open System
 open System.IO
-//open FSharp.Data
 open Encog.ML.Data.Basic
 open Encog.Engine.Network.Activation
 open Encog.Neural.Networks
