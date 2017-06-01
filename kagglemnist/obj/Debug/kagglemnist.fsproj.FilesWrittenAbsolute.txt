@@ -1,0 +1,9 @@
+/home/shierve/Code/Projects/fsharp/kagglemnist/kagglemnist/obj/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.fs
+/home/shierve/Code/Projects/fsharp/kagglemnist/kagglemnist/bin/Debug/kagglemnist.exe.config
+/home/shierve/Code/Projects/fsharp/kagglemnist/kagglemnist/bin/Debug/kagglemnist.exe.mdb
+/home/shierve/Code/Projects/fsharp/kagglemnist/kagglemnist/bin/Debug/kagglemnist.exe
+/home/shierve/Code/Projects/fsharp/kagglemnist/kagglemnist/obj/Debug/kagglemnist.exe
+/home/shierve/Code/Projects/fsharp/kagglemnist/kagglemnist/obj/Debug/kagglemnist.exe.mdb
+/home/shierve/Code/Projects/fsharp/kagglemnist/kagglemnist/bin/Debug/FSharp.Data.dll
+/home/shierve/Code/Projects/fsharp/kagglemnist/kagglemnist/bin/Debug/FSharp.Core.dll
+/home/shierve/Code/Projects/fsharp/kagglemnist/kagglemnist/bin/Debug/encog-core-cs.dll
